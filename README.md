@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="dancing-gopher.gif" width="498" height="498" alt="dancing gopher">
+  <img src="dancing-gopher.gif" width="249" height="249" alt="dancing gopher">
 </p>
